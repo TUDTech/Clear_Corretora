@@ -36,10 +36,6 @@ Scrapper capaz de realizar login e extrair informações financeiras como valor 
 - Preencha as informações no arquivo `.env`
 - `python main.py`
 
-## Objetivo
-
-O objetivo deste repositório é alimentar as informações para fornecer para o https://github.com/MaiaVinicius/carteira-digital.
-
 ## Contribuição
 
 Thanks all for your contributions...
